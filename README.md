@@ -1,16 +1,36 @@
-### Hi there 👋
+# JCET生活日记
+> 个人生活日记网站
+# 概述
+> * 本网站用于记录在长电科技工作的每一天，纪律生活，分享快乐！
+> * 网站还会记录自己的生活日记，考研冲击生活，希望自己的每一天都是过得充实而富有意义
+# 更新说明
+> * 网站内容争取每周会上传服务器更新一次，计划`每周五`
+> * 如果每周更新不及时，请谅解
+# 归档
+## 2022年7月
+|日期|归档完成情况|
+|----|----|
+|`7.6`|✅完成|
+|`7.7`|✅完成|
+|`7.8`|✅完成|
+|`7.11`|✅完成|
+|`7.12`|✅完成|
+|`7.13`|✅完成|
+|`7.14`|✅完成|
+|`7.15`|✅完成|
+|`7.18`|✅完成|
+|`7.19`|✅完成|
+|`7.20`|✅完成|
+|`7.21`|✅完成|
+|`7.22`|✅完成|
+|`7.25`|✅完成|
+|`7.26`|✅完成|
+|`7.27`|✅完成|
+|`7.28`|✅完成|
+|`7.29`|✅完成|
+## 2022年8月
+|日期|归档完成情况|
+|----|----|
+|`8.1-8.5`|✅完成|
 
-<!--
-**ZHlovecat/zhlovecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
